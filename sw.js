@@ -25,7 +25,7 @@ const CACHE_NAME = 'v1_cache_cmblue_pwa',
     './images/icons/favicon-96x96.png',
     './images/icons/favicon-16x16.png',
     './images/icons/ms-icon-144x144.png',
-    './images/cover.png'
+    './images/cover.jpg'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
